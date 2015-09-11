@@ -1,0 +1,9 @@
+Hi Carl and the Udacity Team,
+
+Thank you for the feedback for Project 1.
+
+I went ahead an enlarged the figure you mentioned.
+
+Also, as soon as I made sure that there was no overlap between the testing and training samples, as you suggested, my residual plots immediately became comparable to the ones you sent.
+
+After that, I gutted the linear regression section; you mentioned the small sample size I was using, and, looking back, the only thing I can think is that I had statistical tests on the mind instead of learning models.
